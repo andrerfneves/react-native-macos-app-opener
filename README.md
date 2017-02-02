@@ -15,6 +15,7 @@ The utility leverages `NSWorkspace` to launch an application passed through a pa
 ## Usage
 ```
 import AppOpener from 'react-native-macos-app-opener';
+
 AppOpener.openApp('Finder');
 ```
 
