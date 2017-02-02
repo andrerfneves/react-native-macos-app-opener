@@ -1,0 +1,16 @@
+{
+  "name": "react-native-macos-app-opener",
+  "version": "0.0.1",
+  "description": "React Native macOS utility for launching an application on macOS.",
+  "keywords": ["react-native-macos", "app-opener", "react-native", "macos"],
+  "main": "index.macos.js",
+  "author": "André Neves <@andrerfneves>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrerfneves/react-native-macos-app-opener.git",
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 1"
+  }
+}
