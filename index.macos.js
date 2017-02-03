@@ -10,4 +10,4 @@ const AppOpener = {
   }
 }
 
-module.exports = AppOpener;
+export default AppOpener;
