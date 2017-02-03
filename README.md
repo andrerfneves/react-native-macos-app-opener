@@ -26,5 +26,9 @@ import AppOpener from 'react-native-macos-app-opener';
 AppOpener.openApp('Finder');
 ```
 
+## Example
+You can find a simple example repository here:
+[https://github.com/andrerfneves/react-native-macos-app-opener-example](https://github.com/andrerfneves/react-native-macos-app-opener-example)
+
 ## Contribution
 Please contribute! PRs are welcome and I'll do my best to extend and improve this utility.
